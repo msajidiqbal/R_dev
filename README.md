@@ -1,7 +1,7 @@
 **Project Description - Week 4 - Getting and Cleaning Data using R
 
 This is Coursera Course project to implement R knowledge in fetching, extracting, and generating dity dataset from given UCI HAR Dataset. 
-The repository comprised of R script (run_analysis.R), output resulted tidy data (tidy_data.txt) and instruction file (operation_manuel.md). 
+The repository comprised of R script (run_analysis.R), output resulted tidy data (tidy_data.txt) and instruction file (code_inst.md). 
 
 R script peforms the following steps:
   1- Load R libraries. 
